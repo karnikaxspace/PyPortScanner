@@ -64,8 +64,4 @@ Only scan systems you own or have permission to test.
 
 Karnika Kumari
 
----
 
-## 🙌 Acknowledgment
-
-Developed with guidance and support from ChatGPT
