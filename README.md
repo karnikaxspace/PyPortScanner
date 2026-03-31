@@ -26,15 +26,8 @@ A multithreaded network port scanner built using Python with a simple Tkinter GU
 - Time Module  
 - ChatGPT (for guidance & documentation)  
 
----
 
-## 📦 Installation
 
-```bash
-git clone https://github.com/your-username/port-scanner.git
-cd port-scanner
-python scanner.py
-```
 
 ---
 
